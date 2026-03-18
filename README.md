@@ -9,7 +9,6 @@ A PowerShell module for the [SaaS Alerts](https://www.saasalerts.com) Partner AP
 ## Contents
 
 - [Requirements](#requirements)
-- [Installation](#installation)
 - [Quick Start](#quick-start)
 - [API Notes](#api-notes)
 - [Command Reference](#command-reference)
